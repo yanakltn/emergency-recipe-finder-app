@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/emergency-recipe-finder-app/static/js/main.882875c9.js",
+    "main.js": "/emergency-recipe-finder-app/static/js/main.42a63ead.js",
     "static/js/453.767ec1ed.chunk.js": "/emergency-recipe-finder-app/static/js/453.767ec1ed.chunk.js",
     "index.html": "/emergency-recipe-finder-app/index.html",
-    "main.882875c9.js.map": "/emergency-recipe-finder-app/static/js/main.882875c9.js.map",
+    "main.42a63ead.js.map": "/emergency-recipe-finder-app/static/js/main.42a63ead.js.map",
     "453.767ec1ed.chunk.js.map": "/emergency-recipe-finder-app/static/js/453.767ec1ed.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.882875c9.js"
+    "static/js/main.42a63ead.js"
   ]
 }
